@@ -1,0 +1,26 @@
+[20:40, 3/23/2022] Tubagus Ariq: bagaimana perkembangan dari setiap sprint, apakah ada perubahan dari perusahaan atau kendala selama dari perubahan setiap sprint
+[20:40, 3/23/2022] Tubagus Ariq: boleh dijelaskan kembali bagaimana proses bisnis dari sistemnya
+[20:40, 3/23/2022] Tubagus Ariq: saran: pada pengambilan file skkio itu mungkin bisa dibuat search atau filter jumlah yang ditampilkan agar tidak terjadi lag
+[20:40, 3/23/2022] Tubagus Ariq: 3. bagaimana perkembangan dari setiap sprint, apakah ada perubahan atau kendala selama dari setiap sprint
+4. boleh dijelaskan kembali bagaimana proses bisnis dari sistemnya
+[20:40, 3/23/2022] Tubagus Ariq: 5. untuk aktor tadi terbagi menjadi 10, apakah sempat ada kesulitan dalam pembagian role atau bug lainnya
+
+pada saat pengembangan apa saja perubahan yang terjadi selama pengembangan?
+apakah
+status nya berapa tahap
+
+bagaimana cara menlai apakah tingkat kebutuhan tinggi atau tidak
+apa saja kategori barang yang tersedia
+secara total ada berapa verifikator yang terlibat untuk pengajuan penyediaan barang 
+
+1. Kenapa ada pembagian role akses pada admin, sedangkan admin bisa mengakses fitur yang ada
+2. Apakah user ada pembagian role untuk setiap satuan kerja?
+3. Mengapa perlu ada tampilan dashboard sedangkan aplikasi ini hanya untuk karyawan?
+4. Apakah tiap survey memiliki pertanyaan yang sama untuk setiap satuan kerja?
+5. 
+
+Saran
+1. Lebih semangat lagi untuk mengerjakan proyek yang memang belom selesai sepenuhnya
+2. untuk bagian tampilan mungkin lebih baik di center agar terlihat rapi dan tidak terlihat kosong
+3. 
+

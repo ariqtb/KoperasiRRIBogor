@@ -1,0 +1,108 @@
+.btn {
+    display: inline-block;
+    line-height: 36px;
+    padding: 0 35px;
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    cursor: pointer;
+    font-size: 13px;
+    color: #fff;
+    font-family: "Poppins", "Arial", "Helvetica Neue", sans-serif;
+  }
+
+  .btn--radius {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+  }
+
+  .btn--radius-2 {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+  }
+
+  .btn--pill {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+  }
+
+  .btn--green {
+    background: #57b846;
+  }
+
+  .btn--green:hover {
+    background: #4dae3c;
+  }
+
+  .btn--blue {
+    background: #4272d7;
+  }
+
+  .btn--blue:hover {
+    background: #3868cd;
+    color: #fff;
+  }
+
+  .btn-sukses{
+    background:#15a362;
+    color:#fff;
+    border-color:#15a362
+  }
+
+  .btn-sukses:hover{color:#fff;
+    background:#18ba70;
+    border-color:#18ba70
+  }
+
+  .btn-kembali{
+    background:#4ca1da;
+    color:#ffffff;
+    border:1px solid #15a362;
+  }
+  .btn-kembali:hover{
+    color:#4ca1da;
+    border:1px solid #4ca1da;
+    background:#fff
+  }
+
+
+.table-scroll {
+  height: 500px; overflow: scroll;
+}
+
+table.datatable th a{
+	color: #fff;
+}
+table.datatable th.sort_ASC:after {
+	content: "▲";
+}
+table.datatable th.sort_DESC:after {
+	content: "▼";
+}
+
+.sort-by {
+  cursor: pointer;
+  user-select: none;
+}
+.sort-by:hover {
+  color: darkblue;
+}
+
+.bg-header{
+  background: #4272d7;
+  color: #4272d7;
+}
+
+.contenthover, .contenthover h4, .contenthover h5, .contenthover h6{
+  background: #fff;
+  transition: 0.3s;
+}
+.contenthover:hover , .contenthover:hover h4 , .contenthover:hover h5, .contenthover:hover h6{
+  background: #e6e8ed;
+  color: #212529;
+
+}
